@@ -18,6 +18,8 @@ voila, it's installed.
 
 click on zebratv icon in 'apps' (in new toolbar), or 'open' in extensions page. 
 
+you will see something like 'screenshot.png'
+
 assumptions
 ===========
 
