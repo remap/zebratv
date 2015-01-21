@@ -37,4 +37,4 @@ We can be confident that we do (sometimes) see the maximum refresh rate, and hav
 
 ### Touch Designer
 
-drag & drop. note it uses the python above, internally - so will have the same limitations. 
+open up the TOE to see the data. 
